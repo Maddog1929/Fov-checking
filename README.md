@@ -1,1 +1,1 @@
-# Some code from my private hack for Fov-checking
+# Some code from my private meme for Fov-checking
